@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'poppins';
+    src: url(../font/Poppins-SemiBold.ttf);
+}
+
+*{
+    font-family: 'poppins';
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: #483d8b;
+    color: #ffffff;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    width: max-content;
+    margin: auto;
+
+}
+
+button {
+    cursor: pointer;
+    width: 120px;
+    height: 30px;
+    background-color: #231c50;
+    color: #ffffff;
+    border: none;
+    transition: 0.6s;
+}
+
+button:hover{
+    background-color: #34297a;
+}
+
+#resultado{
+    display: flex;
+    width: 150px;
+}

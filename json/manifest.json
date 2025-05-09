@@ -1,0 +1,45 @@
+{
+    "name": "Projeto 02",
+    "short_name": "PJ02",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#483d8b",
+    "icons": [
+        {
+            "src": "../icones/girl-16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "../icones/girl-24.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "../icones/girl-32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "../icones/girl-64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "../icones/girl-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "../icones/girl-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "../icones/girl-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
