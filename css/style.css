@@ -7,7 +7,7 @@
     font-family: 'poppins';
 }
 
-body{
+body {
     display: flex;
     flex-direction: column;
     background-color: #483d8b;
@@ -38,7 +38,3 @@ button:hover{
     background-color: #34297a;
 }
 
-#resultado{
-    display: flex;
-    width: 150px;
-}
