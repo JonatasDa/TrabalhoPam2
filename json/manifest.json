@@ -1,7 +1,7 @@
 {
     "name": "Projeto 02",
     "short_name": "PJ02",
-    "start_url": "./index.hmtl",
+    "start_url": "../index.hmtl",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#483d8b",
